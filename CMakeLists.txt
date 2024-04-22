@@ -4,8 +4,8 @@ project(ScatteredTransform)
 
 #-----------------------------------------------------------------------------
 # Extension meta-information
-set(EXTENSION_HOMEPAGE "http://slicer.org/slicerWiki/index.php/Documentation/Nightly/Extensions/ScatteredTransform")
-set(EXTENSION_CATEGORY "Transforms")
+set(EXTENSION_HOMEPAGE "https://slicer.org/slicerWiki/index.php/Documentation/Nightly/Extensions/ScatteredTransform")
+set(EXTENSION_CATEGORY "Registration")
 set(EXTENSION_CONTRIBUTORS "Grand Joldes (The University of Western Australia, ISML)")
 set(EXTENSION_DESCRIPTION "Creates a BSpline transform from a displacement field defined at scattered points by using the Multi-level BSpline interpolation algorithm.")
 set(EXTENSION_ICONURL "https://raw.githubusercontent.com/grandwork2/ScatteredTransform/master/ScatteredTransform.png")
